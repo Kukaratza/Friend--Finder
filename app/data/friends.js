@@ -1,37 +1,37 @@
 var friends = [
     {
-       "name":"Erisdar The Mysterious One",
-       "photo":"https://forum.unity3d.com/proxy.php?image=http%3A%2F%2Fwww.infinitypbr.com%2Fdragon%2Fhd6.jpg&hash=572c8a1450b0670344e0da08cae18d18",
+       "name":"Chewbacca",
+       "photo":"https://lumiere-a.akamaihd.net/v1/images/chewie-db_2c0efea2.jpeg?region=54%2C154%2C1413%2C796&width=768",
        "scores":[5,1,4,4,5,1,2,5,4,1]
     },
     {
-       "name":"Mistical Taytay",
-       "photo":"http://rizalprovince.ph/tourism_pictures/Avilon%20MZP%20-%20Montalban%20(2).jpg",
+       "name":"Morty",
+       "photo":"http://i0.kym-cdn.com/photos/images/original/000/692/145/49c.png",
        "scores":[4,2,5,1,3,2,2,1,3,2]
     },
     {
-       "name":"Skylar Rose",
-       "photo":"http://i2.wp.com/northstarz.ca/wp-content/uploads/2013/12/Rose.jpg",
+       "name":"Dementor",
+       "photo":"https://vignette.wikia.nocookie.net/harrypotter/images/4/49/DementorConceptArt.jpg/revision/latest?cb=20150928152038",
        "scores":[5,2,2,2,4,1,3,2,5,5]
     },
     {
-       "name":"Colonel Paul",
-       "photo":"http://www.153aw.ang.af.mil/shared/media/bio/Colonel%20Paul%20Lyman.jpg",
+       "name":"Captain Crunch",
+       "photo":"https://yt3.ggpht.com/a-/AJLlDp3WRj74waJJDfTK7y1DhoxdX3krKAnluKEhcA=s900-mo-c-c0xffffffff-rj-k-no",
        "scores":[3,3,4,2,2,1,3,2,2,3]
     },
      {
-        "name":"Edward Snowden",
-        "photo":"https://upload.wikimedia.org/wikipedia/commons/6/60/Edward_Snowden-2.jpg",
+        "name":"Rebecca Johnson",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDI-0IYj6znOLwFtSaOWhErZdlXUE43ilTdCBuKtx0_c5zQTNlKw",
         "scores":[4,3,4,1,5,2,5,3,1,4]
      },
        {
-       "name":"Hesso Nader",
-       "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aatef_Jenyat.jpg/293px-Aatef_Jenyat.jpg",
+       "name":"The Rock",
+       "photo":"https://static.independent.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2014/08/21/10/dwayne-the-rock.jpg",
        "scores":[3,3,4,1,4,3,5,3,5,4]
     },
      {
-        "name":"Sonneth The Swift",
-        "photo":"http://www.billboard.com/files/styles/article_main_image/public/stylus/1235529-taylor-swift-woman-of-the-year-617-409.jpg",
+        "name":"Jane",
+        "photo":"https://parade.com/wp-content/uploads/2016/04/yaelgrobglas_jane_thecw_Nino_Mu%C3%B1oz.jpg",
         "scores":[4,4,2,3,2,2,3,2,4,5]
      }
  
